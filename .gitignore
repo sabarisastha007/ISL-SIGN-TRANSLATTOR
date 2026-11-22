@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+
+# Python environments
+ai-env/
+convert-env/
+convert-env2/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Git backup
+.git-backup/
+
+# MediaPipe
+public/mediapipe/
+
+# ISL training dataset
+ai/data/
